@@ -1,0 +1,1139 @@
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<info@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<info@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Sat, 8 Aug 2020 05:52:24 +0000
+CLIENT -> SERVER: To: info@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <info@kanvan.in>
+CLIENT -> SERVER: Reply-To: Kaushikdasgupta566@gmail.com
+CLIENT -> SERVER: Subject: Kanvan Business Solutions Pvt. Ltd. "Job requirement- Business Development"
+CLIENT -> SERVER: Message-ID: <a5f3320e4e5a6e53fd741e6f02f6d292@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: From: Kaushik Dasgupta <Kaushikdasgupta566@gmail.com>
+CLIENT -> SERVER: Subject: Job requirement- Business Development
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Message Body:
+CLIENT -> SERVER: Job requirement- Business Development
+CLIENT -> SERVER: 
+CLIENT -> SERVER: -- 
+CLIENT -> SERVER: This e-mail was sent from a contact form on Kanvan Business Solutions Pvt. Ltd. (http://www.kanvan.in)
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<info@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<info@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Mon, 17 Aug 2020 08:36:48 +0000
+CLIENT -> SERVER: To: info@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <info@kanvan.in>
+CLIENT -> SERVER: Reply-To: pawan02chauhan@gmail.com
+CLIENT -> SERVER: Subject: Kanvan Business Solutions Pvt. Ltd. "Jobs"
+CLIENT -> SERVER: Message-ID: <63ff5c3ff30a54f8a638dbbaccc2f4e7@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: From: Pawan Kumar <pawan02chauhan@gmail.com>
+CLIENT -> SERVER: Subject: Jobs
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Message Body:
+CLIENT -> SERVER: Hi,
+CLIENT -> SERVER: My name is pawan kumar, basically i'm belong to aligarh but currently staying in Sector-66 Noida.
+CLIENT -> SERVER: So just i want to confirm that any hiring is available or not over-there, because i have 1.5years exp. of Revenue cycle management(US Billing healthcare process) as a Account receivable, Payment poster And charge poster and as well as knowledge of Clearing House Rejections.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: -- 
+CLIENT -> SERVER: This e-mail was sent from a contact form on Kanvan Business Solutions Pvt. Ltd. (http://www.kanvan.in)
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: MAIL FROM:<info@kanvan.in>
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: RCPT TO:<info@kanvan.in>
+CLIENT -> SERVER: MAIL FROM:<info@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: RCPT TO:<info@kanvan.in>
+CLIENT -> SERVER: Date: Mon, 17 Aug 2020 08:36:50 +0000
+CLIENT -> SERVER: To: info@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <info@kanvan.in>
+CLIENT -> SERVER: Reply-To: pawan02chauhan@gmail.com
+CLIENT -> SERVER: Subject: Kanvan Business Solutions Pvt. Ltd. "Jobs"
+CLIENT -> SERVER: Message-ID: <ede76130367f7e11391f0cea3449c403@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: From: Pawan Kumar <pawan02chauhan@gmail.com>
+CLIENT -> SERVER: Subject: Jobs
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Message Body:
+CLIENT -> SERVER: Hi,
+CLIENT -> SERVER: My name is pawan kumar, basically i'm belong to aligarh but currently staying in Sector-66 Noida.
+CLIENT -> SERVER: So just i want to confirm that any hiring is available or not over-there, because i have 1.5years exp. of Revenue cycle management(US Billing healthcare process) as a Account receivable, Payment poster And charge poster and as well as knowledge of Clearing House Rejections.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: -- 
+CLIENT -> SERVER: This e-mail was sent from a contact form on Kanvan Business Solutions Pvt. Ltd. (http://www.kanvan.in)
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Mon, 17 Aug 2020 08:36:50 +0000
+CLIENT -> SERVER: To: info@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <info@kanvan.in>
+CLIENT -> SERVER: Reply-To: pawan02chauhan@gmail.com
+CLIENT -> SERVER: Subject: Kanvan Business Solutions Pvt. Ltd. "Jobs"
+CLIENT -> SERVER: Message-ID: <032516550ee438cc87e06a5b33d31aa2@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: From: Pawan Kumar <pawan02chauhan@gmail.com>
+CLIENT -> SERVER: Subject: Jobs
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Message Body:
+CLIENT -> SERVER: Hi,
+CLIENT -> SERVER: My name is pawan kumar, basically i'm belong to aligarh but currently staying in Sector-66 Noida.
+CLIENT -> SERVER: So just i want to confirm that any hiring is available or not over-there, because i have 1.5years exp. of Revenue cycle management(US Billing healthcare process) as a Account receivable, Payment poster And charge poster and as well as knowledge of Clearing House Rejections.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: -- 
+CLIENT -> SERVER: This e-mail was sent from a contact form on Kanvan Business Solutions Pvt. Ltd. (http://www.kanvan.in)
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<info@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<info@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Thu, 20 Aug 2020 10:18:54 +0000
+CLIENT -> SERVER: To: info@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <info@kanvan.in>
+CLIENT -> SERVER: Reply-To: ashutoshf9@gmail.com
+CLIENT -> SERVER: Subject: Kanvan Business Solutions Pvt. Ltd. "Required job"
+CLIENT -> SERVER: Message-ID: <292cdbac46f6cf6a113c715493e0e5b8@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: From: Ashutosh Sabat <ashutoshf9@gmail.com>
+CLIENT -> SERVER: Subject: Required job
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Message Body:
+CLIENT -> SERVER: Hi
+CLIENT -> SERVER: I have completed my MBA in finance and hr. I have 2 years of experience as mis analyst in cognizant. I can work as marketing executive.
+CLIENT -> SERVER: 
+CLIENT -> SERVER: -- 
+CLIENT -> SERVER: This e-mail was sent from a contact form on Kanvan Business Solutions Pvt. Ltd. (http://www.kanvan.in)
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<info@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<info@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Thu, 20 Aug 2020 12:46:25 +0000
+CLIENT -> SERVER: To: info@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <info@kanvan.in>
+CLIENT -> SERVER: Reply-To: sushmasherpa1@gmail.com
+CLIENT -> SERVER: Subject: Kanvan Business Solutions Pvt. Ltd. "vacancies"
+CLIENT -> SERVER: Message-ID: <de79e34b2c70ecd005d6355e11a8a196@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: From: sushma sherpa <sushmasherpa1@gmail.com>
+CLIENT -> SERVER: Subject: vacancies
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Message Body:
+CLIENT -> SERVER: Any vacancies for SR. AR
+CLIENT -> SERVER: 
+CLIENT -> SERVER: -- 
+CLIENT -> SERVER: This e-mail was sent from a contact form on Kanvan Business Solutions Pvt. Ltd. (http://www.kanvan.in)
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Fri, 28 Aug 2020 17:27:15 +0000
+CLIENT -> SERVER: To: muneshtomar@kanvan.in
+CLIENT -> SERVER: From: Administrator <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Reply-To: muneshtomar@kanvan.in
+CLIENT -> SERVER: Subject: New User Registration
+CLIENT -> SERVER: Message-ID: <dd8306c0778693644c0fe207724fa2b4@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: Return-Path: muneshtomar@kanvan.in
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <p>Hello Admin,</p><p>A new user has been registered on your Website,. Details are given below:</p><p>Thanks</p><p>Team Kanvan Business Solutions Pvt. Ltd.</p>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<sushilk016@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Fri, 28 Aug 2020 17:27:18 +0000
+CLIENT -> SERVER: To: sushilk016@gmail.com
+CLIENT -> SERVER: From: Admin <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Reply-To: muneshtomar@kanvan.in
+CLIENT -> SERVER: Subject: Your account is ready.
+CLIENT -> SERVER: Message-ID: <a8639a59648a98ec484e161d4c7bd10e@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: Return-Path: muneshtomar@kanvan.in
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <p>Dear sushilk016@gmail.com,</p><p>Thank You for registering with our website.</p><p>You are ready to enjoy the benefits of our products and services by signing in to your personalized account.</p><p>Best Regards,</p><p>Team Kanvan Business Solutions Pvt. Ltd.</p>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Sat, 29 Aug 2020 18:54:55 +0000
+CLIENT -> SERVER: To: muneshtomar@kanvan.in
+CLIENT -> SERVER: From: Administrator <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Reply-To: muneshtomar@kanvan.in
+CLIENT -> SERVER: Subject: New User Registration
+CLIENT -> SERVER: Message-ID: <fc516d303884527d412feece75d6bb76@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: Return-Path: muneshtomar@kanvan.in
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <p>Hello Admin,</p><p>A new user has been registered on your Website,. Details are given below:</p><p>Thanks</p><p>Team Kanvan Business Solutions Pvt. Ltd.</p>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<Mayankraghav3814@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Sat, 29 Aug 2020 18:54:57 +0000
+CLIENT -> SERVER: To: Mayankraghav3814@gmail.com
+CLIENT -> SERVER: From: Admin <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Reply-To: muneshtomar@kanvan.in
+CLIENT -> SERVER: Subject: Your account is ready.
+CLIENT -> SERVER: Message-ID: <83bdc70e8e9e991d672b787d0a0bb735@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: Return-Path: muneshtomar@kanvan.in
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <p>Dear Mayankraghav3814@gmail.com,</p><p>Thank You for registering with our website.</p><p>You are ready to enjoy the benefits of our products and services by signing in to your personalized account.</p><p>Best Regards,</p><p>Team Kanvan Business Solutions Pvt. Ltd.</p>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Mon, 31 Aug 2020 17:05:40 +0000
+CLIENT -> SERVER: To: muneshtomar@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <e60cb849a967d2d455023bb249a6a09d@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/08/31</p><p>Hi Admin,</p><p>I am applying for the job post <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> with interest. I have attached my resume with the job application. I have also filled out the required details.</p><p>I look forward to hearing from you.</p>Warm Regards,<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+Could not access file: CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<hr@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Mon, 31 Aug 2020 17:05:43 +0000
+CLIENT -> SERVER: To: hr@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <b29993579b988f3c8c54349b786c7574@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/08/31</p><p>Dear HR,</p><p>Applicant has applied against your job opening <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> at <a href="http://www.kanvan.in">Kanvan Business Solutions Pvt. Ltd.</a> Please login to your account to download the CV or check from the applicant&#039;s list from the dashboard.</p><br>Best Regards,<br>Admin<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Tue, 1 Sep 2020 04:50:58 +0000
+CLIENT -> SERVER: To: muneshtomar@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <0cdd4200b3b3628c5d7fc6a4eb6a70b9@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/01</p><p>Hi Admin,</p><p>I am applying for the job post <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> with interest. I have attached my resume with the job application. I have also filled out the required details.</p><p>I look forward to hearing from you.</p>Warm Regards,<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+Could not access file: CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<hr@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Tue, 1 Sep 2020 04:51:00 +0000
+CLIENT -> SERVER: To: hr@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <a00e2fb2c8bb2c01a2c5dc6f357cc272@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/01</p><p>Dear HR,</p><p>Applicant has applied against your job opening <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> at <a href="http://www.kanvan.in">Kanvan Business Solutions Pvt. Ltd.</a> Please login to your account to download the CV or check from the applicant&#039;s list from the dashboard.</p><br>Best Regards,<br>Admin<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Tue, 1 Sep 2020 06:28:58 +0000
+CLIENT -> SERVER: To: muneshtomar@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Reply-To: Gurdeep <gurdeep619@gmail.com>
+CLIENT -> SERVER: Subject: Applicant Resume Received Need React Native Developer (FREELANCER)
+CLIENT -> SERVER: Message-ID: <943e4a1e3c10681a7c50b63044e76518@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/01</p><p>Hi Admin,</p><p>I am applying for the job post <b>Need React Native Developer (FREELANCER)</b> with interest. I have attached my resume with the job application. I have also filled out the required details.</p><p>I look forward to hearing from you.</p>Warm Regards,<br>Gurdeep</div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+Could not access file: CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<hr@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Tue, 1 Sep 2020 06:29:01 +0000
+CLIENT -> SERVER: To: hr@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Reply-To: Gurdeep <gurdeep619@gmail.com>
+CLIENT -> SERVER: Subject: Applicant Resume Received Need React Native Developer (FREELANCER)
+CLIENT -> SERVER: Message-ID: <370fb5a8959246dd7533306165766a5e@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/01</p><p>Dear HR,</p><p><b>Gurdeep</b> has applied against your job opening <b>Need React Native Developer (FREELANCER)</b> at <a href="http://www.kanvan.in">Kanvan Business Solutions Pvt. Ltd.</a> Please login to your account to download the CV or check from the applicant&#039;s list from the dashboard.</p><br>Best Regards,<br>Admin<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<gurdeep619@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Tue, 1 Sep 2020 06:29:04 +0000
+CLIENT -> SERVER: To: gurdeep619@gmail.com
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Reply-To: "Kanvan Business Solutions Pvt. Ltd." <noreply@kanvan.in>
+CLIENT -> SERVER: Subject: Your Resume Received for Job Need React Native Developer (FREELANCER)
+CLIENT -> SERVER: Message-ID: <b6261fbbd7f7557ed8d32192a4fed597@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application Acknowledgement</h2> </div><div  style="margin:10px;"><p>2020/09/01</p><p>Hi Gurdeep,<p>Your application for the position of<b> Need React Native Developer (FREELANCER)</b> at <a href="http://www.kanvan.in">Kanvan Business Solutions Pvt. Ltd.</a> has been successfully submitted. You will hear back from <a href="http://www.kanvan.in">Kanvan Business Solutions Pvt. Ltd.</a> based on their evaluation of your CV.</p><p>Good Luck!</p>Best Regards,<br>Admin</div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Tue, 1 Sep 2020 12:39:00 +0000
+CLIENT -> SERVER: To: muneshtomar@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <12d5aa88ea5b815bd8927bea0b436d87@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/01</p><p>Hi Admin,</p><p>I am applying for the job post <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> with interest. I have attached my resume with the job application. I have also filled out the required details.</p><p>I look forward to hearing from you.</p>Warm Regards,<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+Could not access file: CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<hr@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Tue, 1 Sep 2020 12:39:03 +0000
+CLIENT -> SERVER: To: hr@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <7c337667aca650603581e0d3cd8e1c1b@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/01</p><p>Dear HR,</p><p>Applicant has applied against your job opening <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> at <a href="http://www.kanvan.in">Kanvan Business Solutions Pvt. Ltd.</a> Please login to your account to download the CV or check from the applicant&#039;s list from the dashboard.</p><br>Best Regards,<br>Admin<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Tue, 1 Sep 2020 14:54:32 +0000
+CLIENT -> SERVER: To: muneshtomar@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <791cde33a0a89d790a330178a211850a@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/01</p><p>Hi Admin,</p><p>I am applying for the job post <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> with interest. I have attached my resume with the job application. I have also filled out the required details.</p><p>I look forward to hearing from you.</p>Warm Regards,<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+Could not access file: CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<hr@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Tue, 1 Sep 2020 14:54:35 +0000
+CLIENT -> SERVER: To: hr@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <0007eff8c76625e5144ab54f578dff52@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/01</p><p>Dear HR,</p><p>Applicant has applied against your job opening <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> at <a href="http://www.kanvan.in">Kanvan Business Solutions Pvt. Ltd.</a> Please login to your account to download the CV or check from the applicant&#039;s list from the dashboard.</p><br>Best Regards,<br>Admin<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Tue, 1 Sep 2020 16:13:07 +0000
+CLIENT -> SERVER: To: muneshtomar@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <ab20cb4b2cef9eff76edffa2d223c999@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/01</p><p>Hi Admin,</p><p>I am applying for the job post <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> with interest. I have attached my resume with the job application. I have also filled out the required details.</p><p>I look forward to hearing from you.</p>Warm Regards,<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+Could not access file: CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<hr@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Tue, 1 Sep 2020 16:13:10 +0000
+CLIENT -> SERVER: To: hr@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <99310508802a0607175a0c613ab4f191@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/01</p><p>Dear HR,</p><p>Applicant has applied against your job opening <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> at <a href="http://www.kanvan.in">Kanvan Business Solutions Pvt. Ltd.</a> Please login to your account to download the CV or check from the applicant&#039;s list from the dashboard.</p><br>Best Regards,<br>Admin<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 2 Sep 2020 05:07:48 +0000
+CLIENT -> SERVER: To: muneshtomar@kanvan.in
+CLIENT -> SERVER: From: Administrator <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Reply-To: muneshtomar@kanvan.in
+CLIENT -> SERVER: Subject: New User Registration
+CLIENT -> SERVER: Message-ID: <fbfde845f7a30b18ff7f3e41a5ecb46f@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: Return-Path: muneshtomar@kanvan.in
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <p>Hello Admin,</p><p>A new user has been registered on your Website,. Details are given below:</p><p>Thanks</p><p>Team Kanvan Business Solutions Pvt. Ltd.</p>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<mayankraghav3914@gmail.com>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 2 Sep 2020 05:07:51 +0000
+CLIENT -> SERVER: To: mayankraghav3914@gmail.com
+CLIENT -> SERVER: From: Admin <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Reply-To: muneshtomar@kanvan.in
+CLIENT -> SERVER: Subject: Your account is ready.
+CLIENT -> SERVER: Message-ID: <25fa5eba5c94c248844950047df45f68@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: Return-Path: muneshtomar@kanvan.in
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <p>Dear mayankraghav3914@gmail.com,</p><p>Thank You for registering with our website.</p><p>You are ready to enjoy the benefits of our products and services by signing in to your personalized account.</p><p>Best Regards,</p><p>Team Kanvan Business Solutions Pvt. Ltd.</p>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 2 Sep 2020 06:52:40 +0000
+CLIENT -> SERVER: To: muneshtomar@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <b5fbe762558cebf67f8ec7b9d36f15d2@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/02</p><p>Hi Admin,</p><p>I am applying for the job post <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> with interest. I have attached my resume with the job application. I have also filled out the required details.</p><p>I look forward to hearing from you.</p>Warm Regards,<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+Could not access file: CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<hr@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 2 Sep 2020 06:52:42 +0000
+CLIENT -> SERVER: To: hr@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <e2ee1c11c04ccc40ea52a016a907a3b0@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/02</p><p>Dear HR,</p><p>Applicant has applied against your job opening <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> at <a href="http://www.kanvan.in">Kanvan Business Solutions Pvt. Ltd.</a> Please login to your account to download the CV or check from the applicant&#039;s list from the dashboard.</p><br>Best Regards,<br>Admin<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 2 Sep 2020 07:31:35 +0000
+CLIENT -> SERVER: To: muneshtomar@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <5bf273290e666e42f3aad0037d7c4d16@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/02</p><p>Hi Admin,</p><p>I am applying for the job post <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> with interest. I have attached my resume with the job application. I have also filled out the required details.</p><p>I look forward to hearing from you.</p>Warm Regards,<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+Could not access file: CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<hr@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 2 Sep 2020 07:31:38 +0000
+CLIENT -> SERVER: To: hr@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <ce2616a12722da8c567e47e53be89a85@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/02</p><p>Dear HR,</p><p>Applicant has applied against your job opening <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> at <a href="http://www.kanvan.in">Kanvan Business Solutions Pvt. Ltd.</a> Please login to your account to download the CV or check from the applicant&#039;s list from the dashboard.</p><br>Best Regards,<br>Admin<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<info@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<info@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 2 Sep 2020 07:35:09 +0000
+CLIENT -> SERVER: To: info@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <info@kanvan.in>
+CLIENT -> SERVER: Reply-To: mohshafik786@gmail.com
+CLIENT -> SERVER: Subject: Kanvan Business Solutions Pvt. Ltd. "Contact me"
+CLIENT -> SERVER: Message-ID: <9f72a8b552b2af14b524faa285372e42@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/plain; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: From: Mohd Shafik <mohshafik786@gmail.com>
+CLIENT -> SERVER: Subject: Contact me
+CLIENT -> SERVER: 
+CLIENT -> SERVER: Message Body:
+CLIENT -> SERVER: Plese contact me 
+CLIENT -> SERVER: I am join to super markeet in
+CLIENT -> SERVER: 
+CLIENT -> SERVER: -- 
+CLIENT -> SERVER: This e-mail was sent from a contact form on Kanvan Business Solutions Pvt. Ltd. (http://www.kanvan.in)
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 2 Sep 2020 08:17:07 +0000
+CLIENT -> SERVER: To: muneshtomar@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <d0b55f7a4663737df4c652b007f74b49@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/02</p><p>Hi Admin,</p><p>I am applying for the job post <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> with interest. I have attached my resume with the job application. I have also filled out the required details.</p><p>I look forward to hearing from you.</p>Warm Regards,<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+Could not access file: CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<hr@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 2 Sep 2020 08:17:10 +0000
+CLIENT -> SERVER: To: hr@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <f21778c5ecf23a0ff1cc318da28d173f@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/02</p><p>Dear HR,</p><p>Applicant has applied against your job opening <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> at <a href="http://www.kanvan.in">Kanvan Business Solutions Pvt. Ltd.</a> Please login to your account to download the CV or check from the applicant&#039;s list from the dashboard.</p><br>Best Regards,<br>Admin<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 2 Sep 2020 17:52:21 +0000
+CLIENT -> SERVER: To: muneshtomar@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <770c1ea9e72cae259957373a546ee3ae@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/02</p><p>Hi Admin,</p><p>I am applying for the job post <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> with interest. I have attached my resume with the job application. I have also filled out the required details.</p><p>I look forward to hearing from you.</p>Warm Regards,<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+Could not access file: CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<hr@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 2 Sep 2020 17:52:24 +0000
+CLIENT -> SERVER: To: hr@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <e1216276ac13600a6bfd4abee4ef5d27@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/02</p><p>Dear HR,</p><p>Applicant has applied against your job opening <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> at <a href="http://www.kanvan.in">Kanvan Business Solutions Pvt. Ltd.</a> Please login to your account to download the CV or check from the applicant&#039;s list from the dashboard.</p><br>Best Regards,<br>Admin<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 2 Sep 2020 18:34:27 +0000
+CLIENT -> SERVER: To: muneshtomar@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <50dc16771263818a0390fb72116bbdf9@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/02</p><p>Hi Admin,</p><p>I am applying for the job post <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> with interest. I have attached my resume with the job application. I have also filled out the required details.</p><p>I look forward to hearing from you.</p>Warm Regards,<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+Could not access file: CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<hr@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Wed, 2 Sep 2020 18:34:29 +0000
+CLIENT -> SERVER: To: hr@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <cdb85f371a6e1008f6ab83608c961545@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/02</p><p>Dear HR,</p><p>Applicant has applied against your job opening <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> at <a href="http://www.kanvan.in">Kanvan Business Solutions Pvt. Ltd.</a> Please login to your account to download the CV or check from the applicant&#039;s list from the dashboard.</p><br>Best Regards,<br>Admin<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Thu, 3 Sep 2020 03:52:46 +0000
+CLIENT -> SERVER: To: muneshtomar@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <f089f5a0d4085983b6a18e886949e34c@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/03</p><p>Hi Admin,</p><p>I am applying for the job post <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> with interest. I have attached my resume with the job application. I have also filled out the required details.</p><p>I look forward to hearing from you.</p>Warm Regards,<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+Could not access file: CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<hr@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Thu, 3 Sep 2020 03:52:49 +0000
+CLIENT -> SERVER: To: hr@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <35ed7ec954acc9a51ffafb9f109e65dc@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/03</p><p>Dear HR,</p><p>Applicant has applied against your job opening <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> at <a href="http://www.kanvan.in">Kanvan Business Solutions Pvt. Ltd.</a> Please login to your account to download the CV or check from the applicant&#039;s list from the dashboard.</p><br>Best Regards,<br>Admin<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Thu, 3 Sep 2020 04:21:20 +0000
+CLIENT -> SERVER: To: muneshtomar@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <e37cdcb48bda7c76995eebc9a6a160a5@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/03</p><p>Hi Admin,</p><p>I am applying for the job post <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> with interest. I have attached my resume with the job application. I have also filled out the required details.</p><p>I look forward to hearing from you.</p>Warm Regards,<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+Could not access file: CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<hr@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Thu, 3 Sep 2020 04:21:23 +0000
+CLIENT -> SERVER: To: hr@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <ba4fe2fd516fa7680ed6b5869b442630@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/03</p><p>Dear HR,</p><p>Applicant has applied against your job opening <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> at <a href="http://www.kanvan.in">Kanvan Business Solutions Pvt. Ltd.</a> Please login to your account to download the CV or check from the applicant&#039;s list from the dashboard.</p><br>Best Regards,<br>Admin<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Thu, 3 Sep 2020 08:03:16 +0000
+CLIENT -> SERVER: To: muneshtomar@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <9ef7ec3502f4722b4869a895ffe25ec9@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/03</p><p>Hi Admin,</p><p>I am applying for the job post <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> with interest. I have attached my resume with the job application. I have also filled out the required details.</p><p>I look forward to hearing from you.</p>Warm Regards,<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+Could not access file: CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<hr@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Thu, 3 Sep 2020 08:03:19 +0000
+CLIENT -> SERVER: To: hr@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <80d27fb34ce8daaa4e391b73c2dc1ecb@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/03</p><p>Dear HR,</p><p>Applicant has applied against your job opening <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> at <a href="http://www.kanvan.in">Kanvan Business Solutions Pvt. Ltd.</a> Please login to your account to download the CV or check from the applicant&#039;s list from the dashboard.</p><br>Best Regards,<br>Admin<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Thu, 3 Sep 2020 09:41:38 +0000
+CLIENT -> SERVER: To: muneshtomar@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <b31ab9493a314417d339489a195d8ce8@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/03</p><p>Hi Admin,</p><p>I am applying for the job post <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> with interest. I have attached my resume with the job application. I have also filled out the required details.</p><p>I look forward to hearing from you.</p>Warm Regards,<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+Could not access file: CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<hr@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Thu, 3 Sep 2020 09:41:41 +0000
+CLIENT -> SERVER: To: hr@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <6a86afa5df549d5fae2be74709ac3f9f@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/03</p><p>Dear HR,</p><p>Applicant has applied against your job opening <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> at <a href="http://www.kanvan.in">Kanvan Business Solutions Pvt. Ltd.</a> Please login to your account to download the CV or check from the applicant&#039;s list from the dashboard.</p><br>Best Regards,<br>Admin<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Fri, 4 Sep 2020 01:48:54 +0000
+CLIENT -> SERVER: To: muneshtomar@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <1563ce3cf7ef0ad54aa379aba38df875@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/04</p><p>Hi Admin,</p><p>I am applying for the job post <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> with interest. I have attached my resume with the job application. I have also filled out the required details.</p><p>I look forward to hearing from you.</p>Warm Regards,<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+Could not access file: CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<hr@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Fri, 4 Sep 2020 01:48:59 +0000
+CLIENT -> SERVER: To: hr@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <4e16bdf25475acae501f2871fcfa79ee@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/04</p><p>Dear HR,</p><p>Applicant has applied against your job opening <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> at <a href="http://www.kanvan.in">Kanvan Business Solutions Pvt. Ltd.</a> Please login to your account to download the CV or check from the applicant&#039;s list from the dashboard.</p><br>Best Regards,<br>Admin<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Fri, 4 Sep 2020 05:37:11 +0000
+CLIENT -> SERVER: To: muneshtomar@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <7825975b5539c84ceb87f0686fcd097d@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/04</p><p>Hi Admin,</p><p>I am applying for the job post <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> with interest. I have attached my resume with the job application. I have also filled out the required details.</p><p>I look forward to hearing from you.</p>Warm Regards,<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+Could not access file: CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<hr@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Fri, 4 Sep 2020 05:37:15 +0000
+CLIENT -> SERVER: To: hr@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <8ffa5cd4d9e3bb0283c1d901ac50eafa@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/04</p><p>Dear HR,</p><p>Applicant has applied against your job opening <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> at <a href="http://www.kanvan.in">Kanvan Business Solutions Pvt. Ltd.</a> Please login to your account to download the CV or check from the applicant&#039;s list from the dashboard.</p><br>Best Regards,<br>Admin<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Fri, 4 Sep 2020 08:12:23 +0000
+CLIENT -> SERVER: To: muneshtomar@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <0b87464e9a1eb1aea01703674b634169@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/04</p><p>Hi Admin,</p><p>I am applying for the job post <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> with interest. I have attached my resume with the job application. I have also filled out the required details.</p><p>I look forward to hearing from you.</p>Warm Regards,<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+Could not access file: CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<hr@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Fri, 4 Sep 2020 08:12:25 +0000
+CLIENT -> SERVER: To: hr@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <b918b352261c82eaf4330202c6ac099c@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/04</p><p>Dear HR,</p><p>Applicant has applied against your job opening <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> at <a href="http://www.kanvan.in">Kanvan Business Solutions Pvt. Ltd.</a> Please login to your account to download the CV or check from the applicant&#039;s list from the dashboard.</p><br>Best Regards,<br>Admin<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Fri, 4 Sep 2020 12:34:50 +0000
+CLIENT -> SERVER: To: muneshtomar@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <8161ce85a297d6e2d0000daa62c4eb4d@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/04</p><p>Hi Admin,</p><p>I am applying for the job post <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> with interest. I have attached my resume with the job application. I have also filled out the required details.</p><p>I look forward to hearing from you.</p>Warm Regards,<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+Could not access file: CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<hr@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Fri, 4 Sep 2020 12:34:55 +0000
+CLIENT -> SERVER: To: hr@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <1837bf9e0af917e373f01151f3b86534@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/04</p><p>Dear HR,</p><p>Applicant has applied against your job opening <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> at <a href="http://www.kanvan.in">Kanvan Business Solutions Pvt. Ltd.</a> Please login to your account to download the CV or check from the applicant&#039;s list from the dashboard.</p><br>Best Regards,<br>Admin<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
+SMTP ERROR: Failed to connect to server:  (0)SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/TroubleshootingCould not access file: CLIENT -> SERVER: EHLO www.kanvan.in
+CLIENT -> SERVER: AUTH LOGIN
+CLIENT -> SERVER: aW5mb0BrYW52YW4uaW4=
+CLIENT -> SERVER: aW5mb0A0MzIh
+CLIENT -> SERVER: MAIL FROM:<muneshtomar@kanvan.in>
+CLIENT -> SERVER: RCPT TO:<hr@kanvan.in>
+CLIENT -> SERVER: DATA
+CLIENT -> SERVER: Date: Sat, 5 Sep 2020 05:23:37 +0000
+CLIENT -> SERVER: To: hr@kanvan.in
+CLIENT -> SERVER: From: "Kanvan Business Solutions Pvt. Ltd." <muneshtomar@kanvan.in>
+CLIENT -> SERVER: Subject: Applicant Resume Received Looking for UX / Graphics Designer (Freelancer)- Positions -2
+CLIENT -> SERVER: Message-ID: <a6768ee09c7ce56cc993a21807ac6531@www.kanvan.in>
+CLIENT -> SERVER: X-Mailer: PHPMailer 5.2.27 (https://github.com/PHPMailer/PHPMailer)
+CLIENT -> SERVER: MIME-Version: 1.0
+CLIENT -> SERVER: Content-Type: text/html; charset=UTF-8
+CLIENT -> SERVER: 
+CLIENT -> SERVER: <div style="width:700px; margin:0 auto;  border: 1px solid #95B3D7;font-family:Arial;"><div style="border: 1px solid #95B3D7; background-color:#95B3D7;"> <h2 style="text-align:center;">Job Application</h2> </div><div  style="margin:10px;"><p>2020/09/05</p><p>Dear HR,</p><p>Applicant has applied against your job opening <b>Looking for UX / Graphics Designer (Freelancer)- Positions -2</b> at <a href="http://www.kanvan.in">Kanvan Business Solutions Pvt. Ltd.</a> Please login to your account to download the CV or check from the applicant&#039;s list from the dashboard.</p><br>Best Regards,<br>Admin<br></div></div>
+CLIENT -> SERVER: 
+CLIENT -> SERVER: .
+CLIENT -> SERVER: QUIT
